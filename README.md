@@ -10,7 +10,7 @@ ofxGui
 ofxXmlSettings  
   
 ## Contents ##
-![image](./image_0.jpg) 
+![image](./image_0.png) 
 
 ## Device ##
 
